@@ -1,4 +1,4 @@
-#**Netflix Front Page**
+# **Netflix Front Page**
 
 This repository contains the code for recreating the front page style of Netflix using HTML and CSS. This project was undertaken as a learning exercise to delve into web development concepts and refine skills in HTML and CSS.
 
