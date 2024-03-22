@@ -10,7 +10,7 @@ The aim of this project was to replicate the design and layout of the Netflix fr
 - `styles.css`: The CSS file that provides styling and layout for the HTML elements to replicate the Netflix design.
   
 ### Live Demo
-You can view the live demo of the project hosted on Netlify: [Project Link]([insert_project_link_here](https://netflix.netlify.app/))
+You can view the live demo of the project hosted on Netlify: [Project Link](https://netflix.netlify.app/)
 
 ### Getting Started
 To get a local copy of the project up and running, follow these steps:
